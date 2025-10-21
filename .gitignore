@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtualenv
+venv/
+
+# Data files (large) - keep out of repo
+genome_scores.csv
+rating.csv
+genome_tags.csv
+link.csv
+tag.csv
+
+# OS files
+.DS_Store
