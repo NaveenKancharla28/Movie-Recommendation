@@ -1,8 +1,4 @@
-Perfect — I can generate a professional README.md for your GitHub repository Movie-Recommendation based on the files you uploaded (app.py, data_preprocessing.py, model_builder.py, and recommender.py).
-
-Here’s a ready-to-use README draft 👇
-
- Movie Recommendation System
+Movie Recommendation System
 
 A Python-based Movie Recommendation System that uses data preprocessing, feature extraction, and similarity matching to suggest movies based on user preferences.
 This project demonstrates how machine learning and data analysis can be used to build intelligent, content-based recommendation engines.
