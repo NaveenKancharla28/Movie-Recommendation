@@ -90,6 +90,6 @@ pip install -r requirements.txt
 
 Naveen Kancharla
 AI/ML Engineer | Building RAG-powered tools and intelligent automation
-🌐 Portfolio
+🌐 Portfolio https://naveenflix.vercel.app/
 
-💼 LinkedIn
+💼 LinkedIn https://www.linkedin.com/in/naveen-chaitanya-kancharla-358337238/
